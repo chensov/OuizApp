@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Capitals",
+    "question": "What is the capital of Japan?",
+    "options": ["Tokyo", "Kyoto", "Osaka", "Nagoya"],
+    "answer": "Tokyo"
+  },
+  {
+    "category": "Science",
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "CO2", "O2", "H2"],
+    "answer": "H2O"
+  },
+  {
+    "category": "History",
+    "question": "Who was the first President of the United States?",
+    "options": ["Abraham Lincoln", "Thomas Jefferson", "George Washington", "John Adams"],
+    "answer": "George Washington"
+  },
+  {
+    "category": "Geography",
+    "question": "Which is the largest ocean on Earth?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "answer": "Pacific Ocean"
+  }
+]
