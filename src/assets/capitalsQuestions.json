@@ -3,7 +3,9 @@
     "category": "Capitals",
     "question": "What is the capital of Japan?",
     "options": ["Tokyo", "Kyoto", "Osaka", "Nagoya"],
-    "answer": "Tokyo"
+    "answer": "Tokyo",
+    "background": ["../images/img.jpg"]
+
   },
   {
     "category": "Science",
